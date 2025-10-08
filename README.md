@@ -72,3 +72,7 @@ Implementar Lógica de Jogo complexa (regras do JokenPô) usando condicionais (i
 
 Estruturar Funções para dividir tarefas (uma função para a escolha da máquina, outra para a jogada e uma para a lógica principal), tornando o código mais limpo, modular e fácil de manter.
 </p>
+<h2>Imagens do Projeto</h2>
+<img src="https://github.com/Williancosta98/JokenP-/blob/master/img/image-of-the-jokenp%C3%B4-project%201.png?raw=true">
+<br>
+<img src="https://github.com/Williancosta98/JokenP-/blob/master/img/alexa-win.png?raw=true"> <img src="https://raw.githubusercontent.com/Williancosta98/JokenP-/refs/heads/master/img/human-win.png"> <img src="https://raw.githubusercontent.com/Williancosta98/JokenP-/refs/heads/master/img/tied.png">
